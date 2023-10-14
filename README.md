@@ -1,2 +1,2 @@
 # Java_project
-This contains all the java projects.
+This contains all the Java projects.
