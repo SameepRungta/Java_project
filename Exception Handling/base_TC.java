@@ -1,8 +1,8 @@
-public class a {
+public class base_TC {
 public static void main(String[] args){
 
     try{
-    int a = 10, b=1;
+    int a = 10, b=0;
      System.out.println(a/b);
         }
 
