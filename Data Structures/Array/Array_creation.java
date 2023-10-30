@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class Array_creation{
 
@@ -24,10 +24,10 @@ public class Array_creation{
             int j=1;
             for(int i = 0;i<n;i++){
                     
-                System.out.println("Value "+j+" is: "+i);
+                System.out.println("Value "+j+" is: "+a[i]);
                     j++;
             }    
-
+            sc.close();
     }
 
 }
