@@ -1,4 +1,4 @@
-public class throws_throw_java{
+public class throws_throw{
 
     static int meth1(){
         return 10/0;
