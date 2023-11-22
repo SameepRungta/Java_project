@@ -19,7 +19,7 @@ public class Array_creation{
                 a[i] = sc.nextInt();
 
             }
-         
+         sc.close();
          System.out.println("Values has been Stored");   
             int j=1;
             for(int i = 0;i<n;i++){
@@ -27,7 +27,7 @@ public class Array_creation{
                 System.out.println("Value "+j+" is: "+a[i]);
                     j++;
             }    
-            sc.close();
+            
     }
 
 }

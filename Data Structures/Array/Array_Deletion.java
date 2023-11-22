@@ -48,6 +48,6 @@ public class Array_Deletion {
                 System.out.println("Value "+j+" is: "+b[i]);
                     j++;
             }   
-
+            sc.close();
 }
 }

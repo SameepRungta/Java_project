@@ -13,6 +13,6 @@ public class even_or_odd {
         } else {
             System.out.println("Odd");
         }
-
+        sc.close();
     }
 }

@@ -30,7 +30,7 @@ public class Student_CNO {
         System.out.println("Average is: "+s1.average(tt));
             
         s1.grade(s1.average(tt));
-
+        s.close();
     }
 }
 

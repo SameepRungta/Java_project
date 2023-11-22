@@ -21,6 +21,6 @@ public class throws_throw{
         System.out.println("e");
 
     }
-    }
+}
 
 }

@@ -48,7 +48,8 @@ public class Array_insertion {
                     
                 System.out.println("Value "+j+" is: "+b[i]);
                     j++;
-            }   
+            }  
+            sc.close(); 
 
 }
 }
