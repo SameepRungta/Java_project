@@ -6,7 +6,7 @@ public class Array_Deletion {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter the Size of the Array");
+        System.out.println("Enter the Siz of the Array");
 
         int n = sc.nextInt();
 
